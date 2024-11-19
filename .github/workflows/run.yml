@@ -2,7 +2,7 @@ name: Auto Update News
 
 on:
   schedule:
-    - cron: "59 6 * * *"
+    - cron: "5 7 * * *"
   workflow_dispatch:
 
 jobs:
